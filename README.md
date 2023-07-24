@@ -1,4 +1,4 @@
-# Register-with-firebase
+# Register with Firebase
 This Android application demonstrates how to implement user authentication using Firebase. The application provides a sign-up functionality using email and password.
 
 # AuthFirebase
