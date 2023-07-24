@@ -4,13 +4,15 @@ This Android application demonstrates how to implement user authentication using
 # AuthFirebase
 ```groovy
 dependencies {
-    implementation 'com.google.firebase:firebase-auth-ktx:21.0.1'
+implementation 'com.google.firebase:firebase-auth-ktx:21.0.1'
 }
+```
 
 ```groovy
 plugins {
-    id 'com.android.application'
-    id 'kotlin-android'
-    id 'com.google.gms.google-services'
-    id 'kotlin-android-extensions'
+id 'com.android.application'
+id 'kotlin-android'
+id 'com.google.gms.google-services'
+id 'kotlin-android-extensions'
 }
+```
