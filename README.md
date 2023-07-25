@@ -1,5 +1,6 @@
 # About the application
-This Android application demonstrates how to implement user authentication using Firebase. The application provides a sign-up functionality using email and password.
+This Android application demonstrates how to implement user authentication using Firebase.
+The application provides a sign-up functionality using email and password or using a Google account.
 
 # AuthFirebase
 ```groovy
